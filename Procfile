@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT gwsf_donation_app_4236.wsgi:application
